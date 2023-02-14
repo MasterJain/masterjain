@@ -1,0 +1,157 @@
+{
+    
+    "home": "Heim",
+    "videos": "Videos",
+    "categories" : "Kategorien",
+    "profile": "Profil",
+    
+
+    "welcome to" : "Willkommen bei",
+    "sign in to continue": "Zum Fortfahren anmelden",
+    "skip": "Überspringen",
+    "done": "Fertig",
+
+    "intro-title1" : "Welcome to SAM App",
+    "intro-title2" :  "Save Articles",
+    "intro-title3" : "Track your progress",
+    "intro-title4" : "View and Download Models",
+    "intro-description1" : "We are Glad you are here, Let/'s get you ready for your robot building journey",
+    "intro-description2" : "Bookmark, like & comment on your favourite articles and share on social media...",
+    "intro-description3" : "Easily Track your Progress by built in tracker",
+    "intro-description4" : "View and Download Models directly from App",
+    "get started" : "Los geht's",
+    "don't have social accounts?" : "Haben Sie keine sozialen Konten?",
+    "continue with email >>" : "Weiter mit E-Mail >>",
+
+    "sign up": "Registrieren",
+    "sign in": "Anmelden",
+    "follow the simple steps": "Befolgen Sie die einfachen Schritte",
+    "name": "Naam",
+    "already have an account?": "Sie haben bereits ein Konto?",
+    "forgot password?": "Haben Sie Ihr Passwort vergessen?",
+    "reset your password": "Ihr Passwort zurücksetzen",
+    "submit": "Einreichen",
+    "sign in successful!" : "Anmeldung erfolgreich!",
+    "sign up successful!": "Registrierung erfolgreich",
+    "don't have an account?" : "Anmeldung erfolgreich",
+
+
+
+    "search news" : "Suche",
+    "popular news" : "Beliebt",
+    "recent news" : "Neueste",
+    "explore": "Erkunden Sie",
+    "featured": "Ausgewählt",
+    "view all" : "alle anzeigen",
+
+    "video articles" : "Video",
+    "most recent": "Das Neueste",
+    "most popular": "Am beliebtesten",
+    "no categories found": "Keine Kategorien gefunden", 
+
+    
+
+
+
+    "people like this" : "Leute wie diese",
+    "you might also like" : "Das könnte Sie auch interessieren",
+    "no articles found" : "Keine Artikel gefunden",
+
+
+    
+    "no internet" : "Keine Internetverbindung!",
+    "no comments found" : "Keine Kommentare gefunden",
+    "be the first to comment" : "Seien Sie der erste, der einen Kommentar abgibt",
+
+
+    "recent searchs" : "jüngste Suche",
+    "search-description" :  "Sie haben noch keine Artikel gesucht.\n Versuchen Sie es jetzt - wir werden Ihnen helfen!",
+    "we have found" : "Wir haben gefunden",
+    "try again" : "Versuchen Sie es noch einmal!",
+
+
+
+
+    "bookmarks" : "Lesezeichen",
+    "sign in first" : "Zuerst anmelden",
+    "sign in to save your favourite articles here" : "Melden Sie sich an, um Ihre Lieblingsartikel hier zu speichern",
+    "save your favourite articles here" : "Speichern Sie Ihre Lieblingsartikel hier",
+
+
+
+
+    "check your internet connection!" : "Überprüfen Sie Ihre Internetverbindung!",
+    "something is wrong. please try again." : "Es ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.",
+    "error fb login" : "Fehler beim Facebook-Login! Bitte versuchen Sie es mit Google",
+
+
+    
+    "cancel" : "Abbrechen",
+    "no sign in title" : "Melden Sie sich zuerst an, um auf diese Funktion zuzugreifen",
+    "no sign in subtitle" : "Sie haben sich noch nicht angemeldet. Bitte melden Sie sich an, um diese Funktion freizuschalten",
+
+    
+    
+    "comments" : "Kommentare",
+    "write a comment" : "Einen Kommentar schreiben", 
+
+
+    
+    "no content" : "Keine Inhalte gefunden",
+    "flag this comment" : "Diesen Kommentar markieren",
+    "unflag this comment" : "Unflag diesen Kommentar",
+    "report" : "Bericht",
+    "delete" : "Löschen",
+    "report-info" : "Ihr Bericht wurde erfolgreich an die Admins gesendet",
+    "report-info1" : "Vielen Dank für Ihren Bericht. Wir werden innerhalb von 24 Stunden antworten",
+    "report-guest" : "Eine Anmeldung ist erforderlich!",
+    "report-guest1" : "Sie müssen sich anmelden, um über Kommentare zu berichten",
+    "comment flagged" : "Dieser Kommentar wurde markiert!",
+
+
+    "notifications" : "Benachrichtigungen",
+    "notification details" : "Details zur Benachrichtigung",
+
+
+    
+    "general settings" : "Allgemeine Einstellungen",
+    "dark mode" : "Dunkler Modus",
+    "login" : "Anmeldung",
+    "get notifications" : "Benachrichtigungen erhalten",
+    "contact us" : "Kontakt",
+    "rate this app" : "Diese App bewerten",
+    "licence" : "Lizenz",
+    "privacy policy" : "Datenschutzbestimmungen",
+    "about us" : "Über uns",
+    "logout" : "Abmeldung",
+    "edit profile" : "Profil bearbeiten",
+    "update profile" : "Profil aktualisieren",
+    "updated successfully" : "Erfolgreich aktualisiert",
+    "enter new name" : "Neuen Namen eingeben",
+
+    "logout title" : "Möchten Sie sich wirklich von der App abmelden?",
+    "yes" : "Js",
+    "no" : "Nein",
+
+    "language" : "Sprache",
+    "select language" : "Sprache auswählen",
+
+    
+
+    
+   
+
+    "clear-all" : "Alle löschen",
+    "clear-all-notification-dialog": "Möchten Sie alle Benachrichtigungsdaten löschen?",
+    "no-notification-title": "Keine Benachrichtigungen gefunden!",
+    "no-notification-description" : "Sie haben noch keine Benachrichtigungen erhalten. Vergewissern Sie sich, dass Sie die Benachrichtigungen in den Einstellungen aktiviert haben.",
+    "security": "Meine Daten & Konto löschen",
+    "delete-user-data": "Meine Daten und mein Konto löschen",
+    "account-delete-title": "Wollen Sie Ihre Daten wirklich löschen?",
+    "account-delete-subtitle": "Ihre Kontoinformationen wie Profildaten, Lesezeichen usw. werden aus der Datenbank der App gelöscht und Sie müssen sich erneut in der App anmelden, um fortzufahren.",
+    "account-delete-confirm": "Ja, Mein Konto löschen"
+
+
+
+
+}
